@@ -1,0 +1,22 @@
+.UserInput
+{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid lightblue;
+    border-width: 2px;
+    position: relative;
+    background-color: lightcyan;
+    left: 50%;
+
+}
+.UserOutput
+{
+    width: 50%;
+    padding: 2px;
+    border: 2px solid navajowhite;
+    border-width: 2px;
+    position: relative;
+    background-color: slategrey;
+    right: 50%;
+
+}

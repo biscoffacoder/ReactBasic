@@ -1,0 +1,42 @@
+.ListMain
+{
+    border: 2px solid steelblue;
+    padding: 3px;
+    color: teal;
+    position: relative;
+    width: 50%;
+    background: wheat;
+}
+.Valid
+{
+    border: 2px solid black;
+    padding: 3px;
+    color:green;
+    position: relative;
+    width: 50%;
+    background: gray; 
+    
+}
+.Invalid
+{ border: 2px solid black;
+    padding: 3px;
+    color:red;
+    position: relative;
+    width: 50%;
+    background: gray; 
+
+}
+.CharacterVal
+{
+    display: inline-block;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    border: 1px solid black;
+    
+
+}
+.button
+{
+    width: fit-content;
+}

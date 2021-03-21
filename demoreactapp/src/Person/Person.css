@@ -1,0 +1,26 @@
+.Person
+{
+    border: 2px solid cornflowerblue;
+    border-width: 2px;
+    width: 50%;
+    padding: 5px;
+    text-align: justify;
+    box-sizing: border-box;
+    box-shadow: 2px #ccc;
+    color: aquamarine;
+    
+}
+button
+{
+    width: fit-content;
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    background-color: gray;
+    font: bold;
+    opacity: 91%;
+}
+.h4
+{
+    color: indigo;
+    font-weight: lighter;
+}
